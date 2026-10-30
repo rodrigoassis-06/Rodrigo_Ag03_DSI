@@ -1,0 +1,314 @@
+============================================================
+  PESQUISA DE SATISFAÇÃO DE ATENDIMENTO - EMPRESA TUDOWEB  
+============================================================
+Total de participantes a serem entrevistados: 50
+
+
+--- Entrevistado 1 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 2 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 3 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 4 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 5 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 6 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 7 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 8 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 9 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 10 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 11 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 12 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 13 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 14 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 15 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 16 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 17 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 18 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 19 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 20 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 21 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 22 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 23 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 24 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 25 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 26 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 27 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 28 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 29 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 30 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 31 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 32 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 33 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 34 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 35 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 36 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 37 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 38 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 39 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 40 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 41 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 42 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 43 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 44 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 45 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 46 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 47 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 48 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 49 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+--- Entrevistado 50 de 50 ---
+Digite o nome: Digite a idade: Opções de avaliação:
+  1 - EXCELENTE
+  2 - BOM
+  3 - RUIM
+Informe sua opinião (1, 2 ou 3): 
+============================================================
+             RESULTADO FINAL DA PESQUISA                   
+============================================================
+a) Quantidade de respostas 'EXCELENTE': 27
+b) Quantidade de respostas 'RUIM':      10
+   Quantidade de respostas 'BOM':       13
+   Total de entrevistados:              50
+============================================================
